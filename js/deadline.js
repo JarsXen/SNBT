@@ -1,1 +1,1 @@
-var snbt_current_time, snbt_deadline_time, snbt_status, dataurl;snbt_current_time='Mon May 26 2025 22:28:00 GMT+0700';snbt_deadline_time='28 May 2025 15:00:00 +0700';deadline_status='belum';dataurl='https://storage.googleapis.com/pengumuman-snbt-2025-prod-groluwpjuh';
+var snbt_current_time, snbt_deadline_time, snbt_status, dataurl;snbt_current_time='Mon May 26 2025 22:30:30 GMT+0700';snbt_deadline_time='28 May 2025 15:00:00 +0700';deadline_status='belum';dataurl='https://storage.googleapis.com/pengumuman-snbt-2025-prod-groluwpjuh';
